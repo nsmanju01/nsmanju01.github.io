@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## Manjunath Nagaraj Shettar
 
-You can use the [editor on GitHub](https://github.com/nsmanju01/nsmanju01.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I aspire to become an Artist in Software/Data Engineering who can transform the ideas to products with human touch.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Anything which can be built from 0 to 1 and scaled at level intrigues me. My areas of interest broadly lie in designing and developing software products in BigData , Cloud and Database systems.I enjoyed working as a BigData application software developer at Cisco Systems for 2 years.
 
-### Markdown
+I have worked on interesting projects like Recommender Systems, Data Deduplication on Data Platforms like Hadoop which helped me understand the underlying architectures of Apache Spark,Apache Hive,Apache Solr frameworks and UNIX environment.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am a great believer in the quote "When you reach your limits ,Your limits expand" and an admirer of Steve Jobs! 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nsmanju01/nsmanju01.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
