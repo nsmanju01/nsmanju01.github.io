@@ -1,6 +1,6 @@
 ## Manjunath Nagaraj Shettar
 
-# I aspire to become an Artist in Software/Data Engineering who can transform the ideas to products with human touch.
+I aspire to become an Artist in Software/Data Engineering who can transform the ideas to products with human touch.
 
 I am a Master's student at UW-Madison in the Dept. of Computer Sciences expected to graduate on Dec - 2018.
 
@@ -8,7 +8,7 @@ Anything which can be built from 0 to 1 and scaled at level intrigues me. My are
 
 I am a great believer in the quote "When you reach your limits ,Your limits expand" and an admirer of Steve Jobs! 
 
-<button name="button">Click me</button>
+<button name="button" href="https://drive.google.com/file/d/0B7SmU-cL39HqSmZ5VExJSGJPRzA/view?usp=sharing" >Download My Resume Here</button>
 
-# Feel free to contact me on shettar@cs.wisc.edu
+Feel free to contact me on shettar@cs.wisc.edu
 
