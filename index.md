@@ -8,7 +8,7 @@ Anything which can be built from 0 to 1 and scaled at level intrigues me. My are
 
 I am a great believer in the quote "When you reach your limits ,Your limits expand" and an admirer of Steve Jobs! 
 
-<button name="button" href="https://drive.google.com/file/d/0B7SmU-cL39HqSmZ5VExJSGJPRzA/view?usp=sharing" >Download My Resume Here</button>
+<button name="button" onclick="https://drive.google.com/file/d/0B7SmU-cL39HqSmZ5VExJSGJPRzA/view?usp=sharing" >Download My Resume Here</button>
 
 Feel free to contact me on shettar@cs.wisc.edu
 
